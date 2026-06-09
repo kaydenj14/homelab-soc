@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Lab credentials — never commit real passwords
+credentials.txt
+passwords.txt
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.log
